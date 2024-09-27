@@ -1,2 +1,2 @@
-# SASM
-The Simple ASseMbler
+# AASM
+The Adjustable ASseMbler
